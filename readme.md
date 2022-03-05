@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f090334b20396e7fe34cbbc38b7c0abab298c7a
-ms.sourcegitcommit: e75c17571eeb658ade5cc6ba910a3f3fc66eaa10
+ms.openlocfilehash: 1c1ae64c8bad8446decd805774125a50f60b9b0e
+ms.sourcegitcommit: 40ae616e7aa9332ac6866f8e127ec824787ffe8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "136897670"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "138468604"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Desarrollo de soluciones para Microsoft Azure
 
@@ -13,12 +13,19 @@ ms.locfileid: "136897670"
 > **Nota**: Hay nuevas instrucciones a continuación para descargar el archivo *allfiles.zip*. El proceso de compilación automatizado está sin conexión.
 
 - **Dirija a los alumnos** a [https://aka.ms/az204labs](https://aka.ms/az204labs) para obtener una lista fácil de usar de instrucciones de laboratorio.
-- **[Descargue el archivo de contenido AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220106.zip)**
+- **[Descargue el archivo de contenido AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220211.zip)**
 - **¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **¿Necesita crear manualmente las instrucciones de laboratorio?** Las instrucciones están disponibles en el repositorio [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build). 
 <!-- 
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
+
+## <a name="security-issue---february-2022"></a>Problema de seguridad: febrero de 2022
+
+Algunos laboratorios de aprendizaje de Azure le piden al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
+Una vez que inician sesión, usan las máquinas para la minería de criptomonedas y podrían usarlas para otras actividades.
+
+**Corrección**: se debe indicar a los alumnos que usen una contraseña de su elección. Los alumnos no deben usar la contraseña en las instrucciones del laboratorio. Los pasos del laboratorio se actualizarán esta semana para quitar la contraseña. 
 
 ## <a name="what-are-we-doing"></a>¿Qué vamos a hacer?
 
