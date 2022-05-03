@@ -1,28 +1,24 @@
 ---
-ms.openlocfilehash: 1c1ae64c8bad8446decd805774125a50f60b9b0e
-ms.sourcegitcommit: 40ae616e7aa9332ac6866f8e127ec824787ffe8f
+ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
+ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "138468604"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "144341261"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Desarrollo de soluciones para Microsoft Azure
 
 **Todas las instrucciones del laboratorio se actualizaron el 15/10/2021.** Cerraremos todos los problemas y PR abiertos actualmente y animaremos a todos los usuarios a revisar las nuevas instrucciones y, a continuación, a enviar nuevos cambios en el futuro.
 
-> **Nota**: Hay nuevas instrucciones a continuación para descargar el archivo *allfiles.zip*. El proceso de compilación automatizado está sin conexión.
+> **Nota**: debe dirigirse a los alumnos para que sincronicen el repositorio si no se les proporciona AllFiles a través del proveedor de hospedaje de laboratorio. 
 
 - **Dirija a los alumnos** a [https://aka.ms/az204labs](https://aka.ms/az204labs) para obtener una lista fácil de usar de instrucciones de laboratorio.
-- **[Descargue el archivo de contenido AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220211.zip)**
 - **¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **¿Necesita crear manualmente las instrucciones de laboratorio?** Las instrucciones están disponibles en el repositorio [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build). 
-<!-- 
-
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
 
 ## <a name="security-issue---february-2022"></a>Problema de seguridad: febrero de 2022
 
-Algunos laboratorios de aprendizaje de Azure le piden al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
+Algunos laboratorios de aprendizaje de Azure le indican al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
 Una vez que inician sesión, usan las máquinas para la minería de criptomonedas y podrían usarlas para otras actividades.
 
 **Corrección**: se debe indicar a los alumnos que usen una contraseña de su elección. Los alumnos no deben usar la contraseña en las instrucciones del laboratorio. Los pasos del laboratorio se actualizarán esta semana para quitar la contraseña. 
