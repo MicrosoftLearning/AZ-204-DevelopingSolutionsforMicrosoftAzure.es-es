@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 57e7101c824903545932fce809cd5661f95cd3dd
-ms.sourcegitcommit: d2d374fffa4fcbf92b9c4bdc9c9ecc470152e033
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "132626302"
----
 # <a name="lab-virtual-machine-setup"></a>Configuración de la máquina virtual de laboratorio
 
 ## <a name="installed-software"></a>Software instalado
@@ -21,7 +13,7 @@ ms.locfileid: "132626302"
 | Extensión de PowerShell de Visual Studio Code | <https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell> |
 | Extensión de C# de Visual Studio Code | <https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp> |
 | PowerShell 7 | <https://github.com/PowerShell/PowerShell/releases/tag/v7.0.3> |
-| SDK de .NET Core 3.1 | <https://dotnet.microsoft.com/download/dotnet-core/3.1> |
+| .NET 6 SDK | <https://dotnet.microsoft.com/download/dotnet/6.0> |
 | Azure PowerShell | <https://docs.microsoft.com/powershell/azure/install-az-ps> |
 | Azure CLI | <https://docs.microsoft.com/cli/azure/install-azure-cli> |
 | Explorador de Azure Storage | <https://azure.microsoft.com/features/storage-explorer> |
