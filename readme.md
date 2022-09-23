@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
-ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
+ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
+ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "144341261"
+ms.lasthandoff: 06/23/2022
+ms.locfileid: "146565024"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Desarrollo de soluciones para Microsoft Azure
 
@@ -15,8 +15,9 @@ ms.locfileid: "144341261"
 - **Dirija a los alumnos** a [https://aka.ms/az204labs](https://aka.ms/az204labs) para obtener una lista fácil de usar de instrucciones de laboratorio.
 - **¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **¿Necesita crear manualmente las instrucciones de laboratorio?** Las instrucciones están disponibles en el repositorio [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build). 
+- Se ha agregado un [proyecto](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) para realizar un seguimiento del progreso de los problemas o solicitudes de incorporación de cambios.
 
-## <a name="security-issue---february-2022"></a>Problema de seguridad: febrero de 2022
+## <a name="security-issue---february-2022"></a>Problema de seguridad, febrero de 2022
 
 Algunos laboratorios de aprendizaje de Azure le indican al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
 Una vez que inician sesión, usan las máquinas para la minería de criptomonedas y podrían usarlas para otras actividades.
