@@ -1,23 +1,14 @@
----
-ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
-ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2022
-ms.locfileid: "146565024"
----
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Desarrollo de soluciones para Microsoft Azure
 
-**Todas las instrucciones del laboratorio se actualizaron el 15/10/2021.** Cerraremos todos los problemas y PR abiertos actualmente y animaremos a todos los usuarios a revisar las nuevas instrucciones y, a continuación, a enviar nuevos cambios en el futuro.
+**Las instrucciones del laboratorio, el código descargable y la máquina virtual se actualizaron el 5/8/2022 a .NET 6. Estamos supervisando los problemas relacionados con esta actualización y estamos trabajando con nuestros proveedores de hospedaje de laboratorio para probar y obtener los problemas resueltos lo antes posible.**
 
 > **Nota**: debe dirigirse a los alumnos para que sincronicen el repositorio si no se les proporciona AllFiles a través del proveedor de hospedaje de laboratorio. 
 
 - **Dirija a los alumnos** a [https://aka.ms/az204labs](https://aka.ms/az204labs) para obtener una lista fácil de usar de instrucciones de laboratorio.
 - **¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **¿Necesita crear manualmente las instrucciones de laboratorio?** Las instrucciones están disponibles en el repositorio [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build). 
-- Se ha agregado un [proyecto](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) para realizar un seguimiento del progreso de los problemas o solicitudes de incorporación de cambios.
 
-## <a name="security-issue---february-2022"></a>Problema de seguridad, febrero de 2022
+## <a name="security-issue---february-2022"></a>Problema de seguridad: febrero de 2022
 
 Algunos laboratorios de aprendizaje de Azure le indican al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
 Una vez que inician sesión, usan las máquinas para la minería de criptomonedas y podrían usarlas para otras actividades.
