@@ -1,6 +1,6 @@
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Desarrollo de soluciones para Microsoft Azure
 
-**Las instrucciones del laboratorio, el código descargable y la máquina virtual se actualizaron el 5/8/2022 a .NET 6. Estamos supervisando los problemas relacionados con esta actualización y estamos trabajando con nuestros proveedores de hospedaje de laboratorio para probar y obtener los problemas resueltos lo antes posible.**
+**Las instrucciones del laboratorio, el código descargable y la VM se actualizaron el 5/8/2022 a .NET 6. Estamos supervisando los problemas relacionados con esta actualización y estamos trabajando con nuestros proveedores de hospedaje de laboratorio para probar y obtener los problemas resueltos lo antes posible.**
 
 > **Nota**: debe dirigirse a los alumnos para que sincronicen el repositorio si no se les proporciona AllFiles a través del proveedor de hospedaje de laboratorio. 
 
@@ -10,7 +10,7 @@
 
 ## <a name="security-issue---february-2022"></a>Problema de seguridad: febrero de 2022
 
-Algunos laboratorios de aprendizaje de Azure le indican al alumno que use un nombre de usuario y una contraseña específicos. Los actores no siempre analizan las máquinas virtuales e intentan iniciar sesión con esas credenciales.
+Algunos laboratorios de aprendizaje de Azure le indican al alumno que use un nombre de usuario y una contraseña específicos. Los agentes malintencionados buscan constantemente máquinas virtuales e intentan iniciar sesión con esas credenciales.
 Una vez que inician sesión, usan las máquinas para la minería de criptomonedas y podrían usarlas para otras actividades.
 
 **Corrección**: se debe indicar a los alumnos que usen una contraseña de su elección. Los alumnos no deben usar la contraseña en las instrucciones del laboratorio. Los pasos del laboratorio se actualizarán esta semana para quitar la contraseña. 
